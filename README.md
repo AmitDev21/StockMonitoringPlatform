@@ -65,3 +65,13 @@ Run the following command to start the server in production mode:
 npm start
 # or
 yarn start
+
+## Running the development 
+
+### development :
+
+Run the following command to start the server in development mode:
+
+```bash
+npm run dev
+
